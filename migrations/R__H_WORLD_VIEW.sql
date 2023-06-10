@@ -1,0 +1,3 @@
+CREATE OR REPLACE VIEW HlWolrd as
+select * from DEMO_DB.CICD.HELLO_WORLD
+;
