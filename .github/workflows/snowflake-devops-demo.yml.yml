@@ -6,7 +6,7 @@ on:
     branches:
       - master
     paths:
-      - 'migrations/**'
+      - 'tops/**'
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
