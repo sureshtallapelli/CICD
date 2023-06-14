@@ -1,0 +1,8 @@
+CREATE TABLE DEMO_DB.CICD.EMPADDR
+(
+   EMP_ID INT
+  ,AGE INT
+  ,GENDER CHAR
+  ,Statte varchar(50)
+);
+
