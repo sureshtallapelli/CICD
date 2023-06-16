@@ -1,0 +1,3 @@
+INSERT INTO DEMO_DB.CICD.DEPARTMENT
+VALUES('1001','IT'),('1002','Admin'),('1003','Accounts'); 
+
